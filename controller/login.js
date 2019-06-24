@@ -1,8 +1,8 @@
 const {addUser,getAllMaker} = require('../model/index');
-async function adduser1(ctx,next){
+async function adduser(ctx,next){
     ctx.render();
 }
 async function getAllMakers() {
 
 }
-module.exports={adduser1};
+module.exports={adduser};

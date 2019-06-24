@@ -1,6 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\model",
+    "\\model\\models",
+    "\\node_modules\\debug",
+    "\\node_modules\\debug\\src",
+    "\\node_modules\\is-generator-function",
+    "\\node_modules\\koa",
+    "\\node_modules\\koa\\lib",
+    "\\node_modules\\mongoose",
+    "\\node_modules\\mongoose\\lib"
   ],
   "SelectedNode": "\\index.js",
   "PreviewInSolutionExplorer": false
